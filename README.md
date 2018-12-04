@@ -1,1 +1,3 @@
 # storithy
+
+This is a project i made up just to learn. I'd like it to have the ability to connect profiles to a database and from those profiles users can upload documents and share them publicly or just with contacts. As you can see i didn't get very far and it's very basic. Something that has given me a little bit of problems was the change from mysql to mysqli. It would be nice to see something come out of this idea. The logo is just a random along with the title. It was just something i used. I'd like to eventually get a png file that said storithy and have the title and descriptions changed to something like storithy document sharing.
